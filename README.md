@@ -51,5 +51,5 @@ Maps → Regional performance distribution
 
 Cards → High-level KPIs
 
-Screenshot: North-America-Sales-Performance-Dashboard/NA Sales Data.PNG
-
+# Screenshot: 
+https://github.com/Sohailpawaskar89/North-America-Sales-Performance-Dashboard/blob/main/NA%20Sales%20Data.PNG
